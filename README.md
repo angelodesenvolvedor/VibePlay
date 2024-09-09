@@ -68,10 +68,10 @@ Agora você pode acessar `http://localhost:3000` no seu navegador para visualiza
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 👷 Autores
+## 👷 Autor
 
-- Ângelo Silvano - Desenvolvimento e design do projeto - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+- **Angelo Silvano** - *Front-End Developer*- [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 
-- Este projeto está sob a licença MIT - veja mais em [LICENSE.md](./LICENSE).
+- Este projeto está sob a licença MIT - veja mais em [LICENSE.md](https://github.com/angelodesenvolvedor/VibePlay/tree/master?tab=MIT-1-ov-file).
