@@ -2,7 +2,7 @@
 Uma plataforma para reprodução de músicas com interface interativa e responsiva.
 
 ## 🔥 Introdução
-O **VibePlay** é um projeto desenvolvido em **Next.js** que permite aos usuários visualizar uma lista de músicas, clicar sobre elas para reproduzi-las e alternar entre "Reproduzir" e "Pausar". O objetivo principal do projeto é criar uma interface amigável e intuitiva para tocar músicas de uma coleção pré-definida.
+O **VibePlay** é um projeto desenvolvido em **Next.js** que permite aos usuários visualizar uma lista de músicas, clicar sobre elas para reproduzi-las e alternar entre "Reproduzir" e "Pausar". Este projeto é a **Tarefa 02 - Next.js** da disciplina Multimídia do curso Bacharelado em Tecnologia da Informação, na qual sou matriculado. O aluno deve apresentar um menu lateral, com as informações das músicas disponíveis para serem ouvidas. Adicionem até 03 músicas diferentes. Na apresentação das músicas, o aluno pode apresentar o nome, imagem, descrição, cantores ou outras informações que desejarem. As informações sobre as músicas devem vir de um arquivo TypeScript.
 
 ### Funcionalidades
 - Listagem de músicas com título, artista e descrição.
