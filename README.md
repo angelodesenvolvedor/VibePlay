@@ -74,4 +74,4 @@ Agora você pode acessar `http://localhost:3000` no seu navegador para visualiza
 
 ## 📄 Licença
 
-- Este projeto está sob a licença MIT - veja mais em [LICENSE.md](./LICENSE).
+- Este projeto está sob a licença MIT - veja mais em [LICENSE.md](https://github.com/angelodesenvolvedor/VibePlay/tree/master?tab=MIT-1-ov-file).
