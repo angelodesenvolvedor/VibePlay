@@ -52,15 +52,6 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 Agora você pode acessar `http://localhost:3000` no seu navegador para visualizar o projeto rodando localmente.
 
-### 🛠️ Executando os testes
-
-Caso haja testes automatizados, você pode rodá-los com o seguinte comando:
-```bash
-npm test
-```
-
-Você também pode configurar testes com frameworks como **Jest** ou **Cypress**.
-
 ## 📦 Tecnologias usadas:
 
 ### Front-end:
