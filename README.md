@@ -77,15 +77,10 @@ Você também pode configurar testes com frameworks como **Jest** ou **Cypress**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Você pode explorar mais badges para adicionar ao projeto [aqui](https://github.com/Ileriayo/markdown-badges).
-
 ## 👷 Autores
 
 - Ângelo Silvano - Desenvolvimento e design do projeto - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja mais em [LICENSE.md](./LICENSE).
-```
-
-Agora o README inclui as tecnologias utilizadas e suas respectivas badges. Caso queira adicionar ou remover alguma tecnologia, basta editar conforme necessário!
+- Este projeto está sob a licença MIT - veja mais em [LICENSE.md](./LICENSE).
