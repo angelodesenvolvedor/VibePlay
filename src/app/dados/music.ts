@@ -5,7 +5,7 @@ export interface Music {
   image: string;
   description: string;
   artist: string;
-  urlAudio: string; // Adicionando a propriedade urlAudio
+  urlAudio: string; 
 }
 
 export const musics: Music[] = [
