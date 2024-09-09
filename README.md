@@ -1,6 +1,3 @@
-Aqui estão as tecnologias detalhadas e organizadas dentro do `README.md` com as badges correspondentes. 
-
-```markdown
 # VibePlay 🎶
 Uma plataforma para reprodução de músicas com interface interativa e responsiva.
 
